@@ -1,7 +1,5 @@
 package in.eatabyte.codechallenge.contest;
 
-import static org.junit.Assert.*;
-
 import org.junit.Assert;
 import org.junit.Test;
 

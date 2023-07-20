@@ -10,11 +10,11 @@ public class TwoSum {
         for (int i = 0; i < nums.length; i++) {
             int num = nums[i];
             int diff = target - num;
-            Integer m = map.get(diff);
-            if (null != m && target == m) {
-                return new int[] { i, m };
+            Integer m = map.get(num);
+            if (null != m) {
+                return new int[] { m, i };
             } else {
-                map.put(num, i);
+                map.put(diff, i);
             }
         }
         return new int[2];

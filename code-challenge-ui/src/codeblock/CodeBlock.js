@@ -10,7 +10,7 @@ export const CodeBlock = () => {
 
     return <div>
         <pre>
-        <code data-l className="language-java">
+        <code className="language-java">
             System.out.println("hello World");
         </code>
         </pre>
