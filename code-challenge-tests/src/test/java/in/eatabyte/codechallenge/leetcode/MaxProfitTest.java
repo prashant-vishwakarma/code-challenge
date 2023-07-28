@@ -1,4 +1,4 @@
-package in.eatabyte.codechallenge.maxprofit;
+package in.eatabyte.codechallenge.leetcode;
 
 import static org.junit.Assert.*;
 

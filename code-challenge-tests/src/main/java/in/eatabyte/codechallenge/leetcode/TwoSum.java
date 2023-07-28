@@ -1,8 +1,11 @@
-package in.eatabyte.codechallenge.twosum;
+package in.eatabyte.codechallenge.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * LeetCode #1
+ */
 public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {

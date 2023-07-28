@@ -1,8 +1,10 @@
-package in.eatabyte.codechallenge.twosum;
+package in.eatabyte.codechallenge.leetcode;
 
 import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
+
+import in.eatabyte.codechallenge.leetcode.TwoSum;
 
 public class TwoSumTest {
 
