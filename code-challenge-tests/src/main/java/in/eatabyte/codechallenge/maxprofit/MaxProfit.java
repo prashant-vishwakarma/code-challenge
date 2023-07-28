@@ -1,5 +1,8 @@
 package in.eatabyte.codechallenge.maxprofit;
 
+/**
+ * LeetCode #121
+ */
 public class MaxProfit {
 
     public int maxProfit(int[] prices) {
